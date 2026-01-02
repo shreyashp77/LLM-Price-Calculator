@@ -1,0 +1,5 @@
+{
+  "name": "LLM Price Calculator",
+  "description": "A real-time LLM API cost calculator fetching live pricing from OpenRouter to compare OpenAI, Google, Anthropic, and open-source models.",
+  "requestFramePermissions": []
+}
